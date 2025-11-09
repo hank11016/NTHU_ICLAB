@@ -11,5 +11,5 @@ ver8(10/20): Area:16305, cycle time:2.221ns, PI = 36213 // 2 stage pipeline + si
 
 ===== Hidden pattern failed ====
 ver9(10/23): Area:16212, cycle time:2.1819ns, PI = 35373 // 2 stage pipeline + simplify plugboard & rotorA & some parts & move the rotorA_sel_mux & merge bit_sw_mode_sel & small part
-
 ver10(10/23): Area:16173, cycle time:2.1705ns, PI = 35103 // 2 stage pipeline + simplify plugboard & rotorA & some parts & move the rotorA_sel_mux & merge bit_sw_mode_sel & small part & rotorA part
+
